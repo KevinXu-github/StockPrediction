@@ -1,4 +1,5 @@
-Stock Prediction Program
+Stock Prediction Program  
+
 To run this program install these requirements:
 pandas
 yfinance
