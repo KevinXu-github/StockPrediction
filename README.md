@@ -1,6 +1,6 @@
 Stock Prediction Program  
 To run this program install these requirements:  
-pandas  
-yfinance  
+1.  pandas  
+2.  yfinance  
 matplotlib  
 scikit-learn  
